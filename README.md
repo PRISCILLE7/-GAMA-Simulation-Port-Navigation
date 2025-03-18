@@ -29,7 +29,6 @@ git clone https://github.com/PRISCILLE7/-GAMA-Simulation-Port-Navigation.git
 navigation_port_G4/
 ├── models/              # GAML model files
 ├── includes/           # External resources (images, shape files, etc.)
-├── results/           # Simulation results directory
 └── README.md
 ```
 
@@ -48,17 +47,17 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request
 
 ## Authors
-- [Your name]
-- [Other contributors]
+- EBWALA EBWALETTE Priscille 
+
 
 ## License
-This project is licensed under [specify license]
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For questions or suggestions:
 - Open an issue
-- Send an email to [your email]
+- Send an email to ebwalette@gmail.com
+
 
 ## Acknowledgments
 - GAMA Platform team
-- [Other acknowledgments] 

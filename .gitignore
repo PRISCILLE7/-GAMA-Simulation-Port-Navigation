@@ -1,0 +1,25 @@
+# GAMA Platform specific
+*.gaml.diagram
+*.log
+
+# Simulation results
+results/
+
+# Java
+*.class
+*.jar
+
+# IDE specific files
+.metadata/
+.settings/
+.project
+.classpath
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.bak
+*.swp 
